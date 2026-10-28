@@ -118,20 +118,20 @@ To provide quality sports programs that improve physical health and sports skill
 A sports management professional with a medical background and more than twenty years in the sports industry, with experience at national and international sports organisations and events. Dr. Anuradha contributed to the Karnataka Sports Policy under the State Government, and is a multiple international, national and state medallist, an international judge and coach, and a Karnataka State Olympic Association awardee.
 
 </article>
-<article class="card member c-sky">
-<div class="initials" aria-hidden="true">RC</div>
-
-### Mr. R Chethan
-
-Holds the FIG Level 3 International Diploma in Men's Artistic Gymnastics (MAG) and the FIG Level 1 International Diploma in Women's Artistic Gymnastics (WAG). He is NSNIS certified in gymnastics by the Sports Authority of India, a national and state judge in MAG and WAG, and a former national-level gymnast and state medallist.
-
-</article>
 <article class="card member c-sun">
 <div class="initials" aria-hidden="true">VP</div>
 
 ### Mr. Vijayendra P
 
 A results-driven banking professional with an MBA from the University of Mysore and a career of more than 28 years. He brings a wealth of business expertise to the team.
+
+</article>
+<article class="card member c-sky">
+<div class="initials" aria-hidden="true">RC</div>
+
+### Mr. R Chethan
+
+Holds the FIG Level 3 International Diploma in Men's Artistic Gymnastics (MAG) and the FIG Level 1 International Diploma in Women's Artistic Gymnastics (WAG). He is NSNIS certified in gymnastics by the Sports Authority of India, a national and state judge in MAG and WAG, and a former national-level gymnast and state medallist.
 
 </article>
 </div>

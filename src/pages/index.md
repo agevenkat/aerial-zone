@@ -261,17 +261,17 @@ Celebrating our gymnasts and the medals they have worked hard for.
 
 </div>
 
-<ul class="school-list">
-<li>Skalvi International School</li>
-<li>Jain Public School</li>
-<li>Delhi Public School</li>
-<li>Pramiti</li>
-<li>Abheek</li>
-<li>The Brigade Schools</li>
-<li>Glentree Academy</li>
-<li>Bloom Montessori House of Children</li>
-<li>School of India</li>
-<li>Aradhana Academy</li>
+<ul class="school-logos">
+<li><img src="/images/schools/skalvi-international-school.jpg" alt="" loading="lazy"><span>Skalvi International School</span></li>
+<li><img src="/images/schools/jain-public-school.jpg" alt="" loading="lazy"><span>Jain Public School</span></li>
+<li><img src="/images/schools/delhi-public-school.jpg" alt="" loading="lazy"><span>Delhi Public School</span></li>
+<li><img src="/images/schools/pramiti.jpg" alt="" loading="lazy"><span>Pramiti</span></li>
+<li><img src="/images/schools/abheek.jpg" alt="" loading="lazy"><span>Abheek</span></li>
+<li><img src="/images/schools/the-brigade-schools.jpg" alt="" loading="lazy"><span>The Brigade Schools</span></li>
+<li><img src="/images/schools/glentree-academy.jpg" alt="" loading="lazy"><span>Glentree Academy</span></li>
+<li><img src="/images/schools/bloom-montessori.jpg" alt="" loading="lazy"><span>Bloom Montessori House of Children</span></li>
+<li><img src="/images/schools/school-of-india.jpg" alt="" loading="lazy"><span>School of India</span></li>
+<li><img src="/images/schools/aradhana-academy.jpg" alt="" loading="lazy"><span>Aradhana Academy</span></li>
 </ul>
 
 <div class="actions">
