@@ -20,7 +20,7 @@ description: Celebrating Aerial Zone gymnasts and coaches, from gold and bronze 
 ## Highlights
 
 </div>
-<div class="wins">
+<div class="wins three-up">
 <article class="card win">
 <img src="/images/achievement-lekhanaa.jpg" alt="Lekhanaa in her leotard holding up a gold medal" loading="lazy">
 <div class="body">
